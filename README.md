@@ -4,7 +4,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 
 ## 📌 Módulo 1: Fundamentos
 - [x] Sintaxe básica e método `main` -> [`Sintaxebasica.java`](./modulo01_fundamentos/Sintaxebasica.java)
-- [x] Sintaxe simplificada -> [`Sintaxebasicajv25.java`](.Sintaxebasicajv25.java)
+- [x] Sintaxe simplificada -> [`Sintaxebasicajv25.java`](./Sintaxebasicajv25.java)
 
 
 ## 💡 Minhas Anotações
