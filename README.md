@@ -9,6 +9,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Especificadores de formatos -> [`ConversionEspecifiers.md`](./ConversionEspecifiers.md)
 - [x] Entrada de dados -> [`EntradaDados.java`](./modulo01_fundamentos/EntradaDados.java)
 - [x] Métodos Next -> [`MetodosNext.md`](./MetodosNext.md)
+- [x] Processamento de dados -> [`ProcessamentoDados.java`](./modulo01_fundamentos/ProcessamentoDados.java)
 - [x] Funções matemáticas -> [`FuncoesMatematicas.java`](./modulo01_fundamentos/FuncoesMatematicas.java)
 
 ## 💡 Minhas Anotações
