@@ -1,4 +1,4 @@
-# 📚 Caderno de Estudos - Java & Spring Boot
+# 📚 Caderno de Estudos - Java
 
 Repositório dedicado ao meu plano de estudos diário de Java.
 
