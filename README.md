@@ -11,7 +11,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Métodos Next -> [`MetodosNext.md`](./MetodosNext.md)
 - [x] Processamento de dados -> [`ProcessamentoDados.java`](./modulo01_fundamentos/ProcessamentoDados.java)
 - [x] Funções matemáticas -> [`FuncoesMatematicas.java`](./modulo01_fundamentos/FuncoesMatematicas.java)
-- [ ] Exercícios lógica de programação -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_lp/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_lp/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_lp/Exercicio03.java)
+- [x] Exercícios lógica de programação -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_lp/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_lp/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_lp/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_lp/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_lp/Exercicio05.java) [`Exercicio06.java`](./modulo01_fundamentos/exercicios_lp/Exercicio06.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
