@@ -11,7 +11,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Métodos Next -> [`MetodosNext.md`](./MetodosNext.md)
 - [x] Processamento de dados -> [`ProcessamentoDados.java`](./modulo01_fundamentos/ProcessamentoDados.java)
 - [x] Funções matemáticas -> [`FuncoesMatematicas.java`](./modulo01_fundamentos/FuncoesMatematicas.java)
-- [ ] Exercícios lógica de programação -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_lp/Exercicio01.java)
+- [ ] Exercícios lógica de programação -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_lp/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_lp/Exercicio02.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
@@ -25,5 +25,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - **DICA:** O tipo `char` guarda apenas **um único caractere** (letra, número ou símbolo) e exige obrigatoriamente o uso de **aspas simples** (`'a'`).
 - **DICA:** Digitar Sysout e apertar Ctrl + Espaço escreve automaticamente o comando System.out.println();.
 - **Regra de ouro:** nextInt(), nextDouble() e next() leem só o valor e deixam o \n (Enter) no buffer. Se o próximo comando for nextLine(), ele encontra esse \n sobrando e retorna uma string vazia, pulando a leitura.
-A solução: colocar um sc.nextLine() extra (descartável) logo depois, só pra limpar o \n
-- **DOCUMENTAÇÃO:** site da documentação oficial de funções matemáticas em JAVA : [Java Math Class](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html)
+A solução: colocar um sc.nextLine() extra (descartável) logo depois, só pra limpar o \n.
+- **DOCUMENTAÇÃO:** site da documentação oficial de funções matemáticas em JAVA : [Java Math Class](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html).
+- **Dica de Java (Inicialização de Variáveis):**
+Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Sempre faça a leitura dos dados (`Scanner`) ou atribuição do valor **antes** de realizar cálculos que dependam dessa variável, caso contrário o código não compilará (`variable might not have been initialized`).
