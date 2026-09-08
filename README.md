@@ -12,6 +12,11 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Processamento de dados -> [`ProcessamentoDados.java`](./modulo01_fundamentos/ProcessamentoDados.java)
 - [x] Funções matemáticas -> [`FuncoesMatematicas.java`](./modulo01_fundamentos/FuncoesMatematicas.java)
 - [x] Exercícios lógica de programação -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_lp/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_lp/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_lp/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_lp/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_lp/Exercicio05.java) [`Exercicio06.java`](./modulo01_fundamentos/exercicios_lp/Exercicio06.java)
+- [x] Expressões comparataivas -> [`ExpressoesComparativas.md`](./ExpressoesComparativas.md)
+- [x] Expressões lógicas -> [`ExpressoesLogicas.md`](./ExpressoesLogicas.md)
+- [x] Estrtura Condicional Simples -> [`EstruturaCondSimp.java`](./modulo01_fundamentos/EstruturaCondSimp.java)
+- [x] Estrtura Condicional Composta -> [`EstruturaCondComp.java`](./modulo01_fundamentos/EstruturaCondComp.java)
+- [x] Estrtura Condicional Encadeada -> [`EstruturaCondEncad.java`](./modulo01_fundamentos/EstruturaCondEncad.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
