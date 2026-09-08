@@ -1,5 +1,5 @@
-|Operador | Significado|
-|:--------------:|:|
-| `&&`   |     AND | 
-| `\|\|` |     OR  |
-| `!`    |     NOT |
+| Operador | Significado |
+|:--------:|:------------|
+| `&&`     | AND         |
+| `\|\|`   | OR          |
+| `!`      | NOT         |
