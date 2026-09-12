@@ -17,8 +17,9 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Estrtura Condicional Simples -> [`EstruturaCondSimp.java`](./modulo01_fundamentos/EstruturaCondSimp.java)
 - [x] Estrtura Condicional Composta -> [`EstruturaCondComp.java`](./modulo01_fundamentos/EstruturaCondComp.java)
 - [x] Estrtura Condicional Encadeada -> [`EstruturaCondEncad.java`](./modulo01_fundamentos/EstruturaCondEncad.java)
-- [x] Exercícios estrutura condicional -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_ec/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_ec/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_ec/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_ec/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_ec/Exercicio05.java)
 - [x] Expressões comparataivas -> [`ExpressoesComparativas.md`](./ExpressoesComparativas.md)
+- [x] Exercícios estrutura condicional -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_ec/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_ec/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_ec/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_ec/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_ec/Exercicio05.java) [`Exercicio06.java`](./modulo01_fundamentos/exercicios_ec/Exercicio06.java) [`Exercicio07.java`](./modulo01_fundamentos/exercicios_ec/Exercicio07.java)
+
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
