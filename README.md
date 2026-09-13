@@ -19,6 +19,12 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Estrtura Condicional Encadeada -> [`EstruturaCondEncad.java`](./modulo01_fundamentos/EstruturaCondEncad.java)
 - [x] Expressões comparataivas -> [`ExpressoesComparativas.md`](./ExpressoesComparativas.md)
 - [x] Exercícios estrutura condicional -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_ec/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_ec/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_ec/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_ec/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_ec/Exercicio05.java) [`Exercicio06.java`](./modulo01_fundamentos/exercicios_ec/Exercicio06.java) [`Exercicio07.java`](./modulo01_fundamentos/exercicios_ec/Exercicio07.java)
+- [x] Atribuição composta -> [`AtribuicaoComposta.md`](./AtribuicaoComposta.md)
+- [x] Atribuição composta -> [`AtribComp.java`](./modulo01_fundamentos/AtribComp.java)
+- [x] Condição Ternária -> [`CondTernaria.java`](./modulo01_fundamentos/CondTernaria.java)
+- [x] Switch Case -> [`SwitchCase.java`](./modulo01_fundamentos/SwitchCase.java)
+- [x] Estrutura de repetição While -> [`EstruturaRepWhile.java`](./modulo01_fundamentos/EstruturaRepWhile.java)
+- [x] Exercícios estrutura de repetição While -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_er_while/Exercicio01.java)
 
 
 ## 💡 Minhas Anotações
@@ -37,3 +43,4 @@ A solução: colocar um sc.nextLine() extra (descartável) logo depois, só pra 
 - **DOCUMENTAÇÃO:** site da documentação oficial de funções matemáticas em JAVA : [Java Math Class](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html).
 - **Dica de Java (Inicialização de Variáveis):**
 Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Sempre faça a leitura dos dados (`Scanner`) ou atribuição do valor **antes** de realizar cálculos que dependam dessa variável, caso contrário o código não compilará (`variable might not have been initialized`).
+- **DICA:** Os operadores de Atribuição Composta já realizam o casting automaticamente.
