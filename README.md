@@ -24,8 +24,8 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Condição Ternária -> [`CondTernaria.java`](./modulo01_fundamentos/CondTernaria.java)
 - [x] Switch Case -> [`SwitchCase.java`](./modulo01_fundamentos/SwitchCase.java)
 - [x] Estrutura de repetição While -> [`EstruturaRepWhile.java`](./modulo01_fundamentos/EstruturaRepWhile.java)
-- [x] Exercícios estrutura de repetição While -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_er_while/Exercicio01.java)
-
+- [x] Exercícios estrutura de repetição While -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_er_while/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_er_while/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_er_while/Exercicio03.java)
+- [x] Estrutura de repetição For -> [`EstruturaRepFor.java`](./modulo01_fundamentos/EstruturaRepFor.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
@@ -44,3 +44,4 @@ A solução: colocar um sc.nextLine() extra (descartável) logo depois, só pra 
 - **Dica de Java (Inicialização de Variáveis):**
 Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Sempre faça a leitura dos dados (`Scanner`) ou atribuição do valor **antes** de realizar cálculos que dependam dessa variável, caso contrário o código não compilará (`variable might not have been initialized`).
 - **DICA:** Os operadores de Atribuição Composta já realizam o casting automaticamente.
+- **DICA:** Toda variável tem que ser inicializada antes.
