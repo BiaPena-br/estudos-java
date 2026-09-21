@@ -28,6 +28,8 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Estrutura de repetição For -> [`EstruturaRepFor.java`](./modulo01_fundamentos/EstruturaRepFor.java)
 - [x] Exercícios estrutura de repetição for -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio03.java) [`Exercicio04.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio04.java) [`Exercicio05.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio05.java) [`Exercicio06.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio06.java) [`Exercicio07.java`](./modulo01_fundamentos/exercicios_er_for/Exercicio07.java)
 - [x] Estrutura de repetição Do While -> [`DoWhile.java`](./modulo01_fundamentos/DoWhile.java)
+- [x] Operadores Bitwise -> [`OperadoresBitwise.md`](./OperadoresBitwise.md)
+- [x] Funções com Strings -> [`FuncoesString.java`](./modulo01_fundamentos/FuncoesString.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
