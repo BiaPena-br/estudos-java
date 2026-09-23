@@ -30,6 +30,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Estrutura de repetição Do While -> [`DoWhile.java`](./modulo01_fundamentos/DoWhile.java)
 - [x] Operadores Bitwise -> [`OperadoresBitwise.md`](./OperadoresBitwise.md)
 - [x] Funções com Strings -> [`FuncoesString.java`](./modulo01_fundamentos/FuncoesString.java)
+- [x] Funções(Métodos) em java -> [`Funcoes.java`](./modulo01_fundamentos/Funcoes.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
