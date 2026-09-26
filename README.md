@@ -31,6 +31,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Operadores Bitwise -> [`OperadoresBitwise.md`](./OperadoresBitwise.md)
 - [x] Funções com Strings -> [`FuncoesString.java`](./modulo01_fundamentos/FuncoesString.java)
 - [x] Funções(Métodos) em java -> [`Funcoes.java`](./modulo01_fundamentos/Funcoes.java)
+- [x] Exercícios de funções(métodos) em java -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio03.java)
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
@@ -50,3 +51,7 @@ A solução: colocar um sc.nextLine() extra (descartável) logo depois, só pra 
 Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Sempre faça a leitura dos dados (`Scanner`) ou atribuição do valor **antes** de realizar cálculos que dependam dessa variável, caso contrário o código não compilará (`variable might not have been initialized`).
 - **DICA:** Os operadores de Atribuição Composta já realizam o casting automaticamente.
 - **DICA:** Toda variável tem que ser inicializada antes.
+- **DICA:** A classe String comum NÃO possui o método .reverse().
+            Para inverter um texto, você precisa usar uma destas duas formas:
+              Opção 1 (StringBuilder): Use new StringBuilder(texto).reverse().toString();
+              Opção 2 (for manual): Use texto.length() para saber o tamanho e texto.charAt(i) para pegar cada letra de trás para frente.
