@@ -33,6 +33,12 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Funções(Métodos) em java -> [`Funcoes.java`](./modulo01_fundamentos/Funcoes.java)
 - [x] Exercícios de funções(métodos) em java -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio03.java)
 
+## 📌 Módulo 2: Programação Orientada a Objetos
+- [x] Aplicação sem POO -> [`Application01.java`](./modulo02_poo/Application01.java)
+- [x] Aplicação com POO -> [`Application02.java`](./modulo02_poo/Application02.java)
+- [x] Classe do Triângulo usada em Application02 -> [`Triangulo.java`](./modulo02_poo//entities/Triangulo.java)
+- [x] Diagrama de Classes UML -> [`DiagramaClasseUML.md`](./DiagramaClasseUML.md)
+
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
 - **DICA:** A partir do JAVA 25 a sintaxe teve uma simplificação, porém é recomendado usar a sintaxe tradicional, pois muitas empresas ainda trabalham com ela, inclusive para usar o framework Spring Boot se usa a estrutura tradicional.
@@ -55,3 +61,6 @@ Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Se
             Para inverter um texto, você precisa usar uma destas duas formas:
               Opção 1 (StringBuilder): Use new StringBuilder(texto).reverse().toString();
               Opção 2 (for manual): Use texto.length() para saber o tamanho e texto.charAt(i) para pegar cada letra de trás para frente.
+- **DICA:** A Classe é o molde; o Objeto é o item fabricado; os Atributos são as características dele; e os Métodos são as ações que ele faz.
+- **CURIOSIDADE:** As variáveis locais (declaradas dentro de métodos) são alocadas em uma área da memória chamada Stack, enquanto os objetos criados ao instanciar uma classe (new) ficam alocados na área Heap. Na Stack, a variável guarda apenas o endereço de memória (referência) que aponta para onde o objeto realmente está no Heap.
+(Já as variáveis estáticas não ficam na Stack; elas vivem no Heap em uma área especial da classe, o Metaspace).
