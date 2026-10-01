@@ -64,3 +64,5 @@ Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Se
 - **DICA:** A Classe é o molde; o Objeto é o item fabricado; os Atributos são as características dele; e os Métodos são as ações que ele faz.
 - **CURIOSIDADE:** As variáveis locais (declaradas dentro de métodos) são alocadas em uma área da memória chamada Stack, enquanto os objetos criados ao instanciar uma classe (new) ficam alocados na área Heap. Na Stack, a variável guarda apenas o endereço de memória (referência) que aponta para onde o objeto realmente está no Heap.
 (Já as variáveis estáticas não ficam na Stack; elas vivem no Heap em uma área especial da classe, o Metaspace).
+- **DICA:** **this** diferencia as variáveis de instância das variáveis locais.
+- **DICA:** **toString();** converte o objeto em uma String.
