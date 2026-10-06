@@ -8,11 +8,11 @@ public class Student {
     public double nota3;
 
     // Calcula a soma das notas
-    public double NotaFinal() {
+    public double notaFinal() {
         return nota1 + nota2 + nota3;
     }
 
-    public double PontosFaltando() {
+    public double pontosFaltando() {
         if (NotaFinal() < 60.0) {
             return 60.0 - NotaFinal();
         } else {
@@ -21,13 +21,13 @@ public class Student {
     }
 
     public String toString() {
-        String resultado = "Nota final = " + String.format("%.2f", NotaFinal()) + "\n";
+        String resultado = "Nota final = " + String.format("%.2f", notaFinal()) + "\n";
 
-        if (NotaFinal() >= 60.0) {
+        if (notaFinal() >= 60.0) {
             resultado += "PASS";
         } else {
             resultado += "FAILED\nFALTARAM " 
-                       + String.format("%.2f", PontosFaltando()) 
+                       + String.format("%.2f", pontosFaltando()) 
                        + " PONTOS";
         }
 

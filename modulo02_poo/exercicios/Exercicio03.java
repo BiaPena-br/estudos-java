@@ -8,6 +8,26 @@ resolver este problema.
 
 package modulo02_poo.exercicios;
 
+import java.util.Scanner;
+import modulo02_poo.entities.Student;
+
 public class Exercicio03 {
-    
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        Student estudante = new Student();
+
+        System.out.print("Digite seu nome: ");
+        estudante.nome = sc.nextLine();
+        System.out.print("Digite suas notas obtidas nos três trimestres: ");
+        estudante.nota1 = sc.nextDouble();
+        estudante.nota2 = sc.nextDouble();
+        estudante.nota3 = sc.nextDouble();
+
+        System.out.println();
+        System.out.println(estudante);
+
+        sc.close();
+    }  
 }

@@ -33,11 +33,17 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Funções(Métodos) em java -> [`Funcoes.java`](./modulo01_fundamentos/Funcoes.java)
 - [x] Exercícios de funções(métodos) em java -> [`Exercicio01.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio01.java) [`Exercicio02.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio02.java) [`Exercicio03.java`](./modulo01_fundamentos/exercicios_metodos/Exercicio03.java)
 
+
 ## 📌 Módulo 2: Programação Orientada a Objetos
 - [x] Aplicação sem POO -> [`Application01.java`](./modulo02_poo/Application01.java)
 - [x] Aplicação com POO -> [`Application02.java`](./modulo02_poo/Application02.java)
-- [x] Classe do Triângulo usada em Application02 -> [`Triangulo.java`](./modulo02_poo//entities/Triangulo.java)
+- [x] Classe do Triângulo usada em Application02 -> [`Triangulo.java`](./modulo02_poo/entities/Triangulo.java)
 - [x] Diagrama de Classes UML -> [`DiagramaClasseUML.md`](./DiagramaClasseUML.md)
+- [x] Exemplo de aplicação com POO -> [`Exemplo.java`](./modulo02_poo/Exemplo.java)
+- [x] Entidade do Exemplo.java -> [`Products.java`](./modulo02_poo/entities/Products.java)
+- [x] Exercícios de aplicações com POO -> [`Exercicio01.java`](./modulo02_poo/exercicios/Exercicio01.java) [`Exercicio02.java`](./modulo02_poo/exercicios/Exercicio02.java) [`Exercicio03.java`](./modulo02_poo/exercicios/Exercicio03.java) 
+- [x] Entidade dos exercícios anteriores respectivamente -> [`Retangulo.java`](./modulo02_poo/entities/Retangulo.java) [`Funcionario.java`](./modulo02_poo/entities/Funcionario.java) [`Student.java`](./modulo02_poo/entities/Student.java)
+
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
@@ -66,3 +72,5 @@ Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Se
 (Já as variáveis estáticas não ficam na Stack; elas vivem no Heap em uma área especial da classe, o Metaspace).
 - **DICA:** **this** diferencia as variáveis de instância das variáveis locais.
 - **DICA:** **toString();** converte o objeto em uma String.
+- **DICA:** **Pascal Case** a primeira letra de cada palavra é maiúscula(Classes, Interfaces, Enums, Arquivos do código).
+- **DICA:** **Camel Case** a primeira letra é minúscula mas as palavras seguintes começam comn maiúsuculas(Variáveis e atributos, Métodos, Parâmetros de métodos).
