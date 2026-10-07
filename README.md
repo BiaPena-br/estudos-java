@@ -43,7 +43,7 @@ Repositório dedicado ao meu plano de estudos diário de Java.
 - [x] Entidade do Exemplo.java -> [`Products.java`](./modulo02_poo/entities/Products.java)
 - [x] Exercícios de aplicações com POO -> [`Exercicio01.java`](./modulo02_poo/exercicios/Exercicio01.java) [`Exercicio02.java`](./modulo02_poo/exercicios/Exercicio02.java) [`Exercicio03.java`](./modulo02_poo/exercicios/Exercicio03.java) 
 - [x] Entidade dos exercícios anteriores respectivamente -> [`Retangulo.java`](./modulo02_poo/entities/Retangulo.java) [`Funcionario.java`](./modulo02_poo/entities/Funcionario.java) [`Student.java`](./modulo02_poo/entities/Student.java)
-
+- [x] Exercício de método estático e seu utilitário -> [`ExercicioMetodosEstaticos.java`](./modulo02_poo/ExercicioMetodosEstaticos.java) [`CurrencyConverter.java`](./modulo02_poo/util/CurrencyConverter.java) 
 
 ## 💡 Minhas Anotações
 - **Regra de ouro:** Nome da classe pública precisa ser idêntico ao nome do arquivo `.java`.
