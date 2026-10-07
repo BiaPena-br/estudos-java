@@ -74,3 +74,9 @@ Em Java, variáveis locais não podem ser usadas antes de receberem um valor. Se
 - **DICA:** **toString();** converte o objeto em uma String.
 - **DICA:** **Pascal Case** a primeira letra de cada palavra é maiúscula(Classes, Interfaces, Enums, Arquivos do código).
 - **DICA:** **Camel Case** a primeira letra é minúscula mas as palavras seguintes começam comn maiúsuculas(Variáveis e atributos, Métodos, Parâmetros de métodos).
+- **Regra de ouro:** Usar membros estáticos quando a ação executada não depende dos dados internos de um objeto específico (não acessa nem modifica atributos de instância).
+- **ATENÇÃO** Dentro de um método estático, você só pode chamar outros métodos estáticos DIRETAMENTE (sem criar um objeto).
+- **Regra de ouro:** Usar **entities** quando for representar os objetos do mundo real(armazenam atributos e métodos).
+- **Regra de ouro:** Usar **util/utils** quando precisar de ferramentas reutilizáveis(nào guardam dados, servem apenas para executar tarefas auxiliares).
+- **Dicionário:** **CONSTANTES** são variáveis imutáveis(EX:public final double PI= 3.14159), e usam em sues nomes o modo SNAKE_CASE_MAIUSCULO.
+- **DICA:** **Snake Case** Todas as letras são maiúsculas, e palavras são separadas por underscore.

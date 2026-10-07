@@ -13,8 +13,8 @@ public class Student {
     }
 
     public double pontosFaltando() {
-        if (NotaFinal() < 60.0) {
-            return 60.0 - NotaFinal();
+        if (notaFinal() < 60.0) {
+            return 60.0 - notaFinal();
         } else {
             return 0.0;
         }
